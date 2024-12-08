@@ -3,11 +3,11 @@ body {
 }
 
 img {
-    width: 32px;
+    width: 50px;
 }
 
 video {
-    border-radius: 50%;
+    border-radius: 32%;
     width: 200px;
     filter: drop-shadow(3px 3px 5px #ffffff);
 }
