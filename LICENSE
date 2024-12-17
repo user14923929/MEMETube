@@ -1,16 +1,2 @@
-Otherwise, picking the right open source license for your project depends on your objectives.
-
-Your project very likely has (or will have) dependencies, each of which will have its own open source license with terms you have to respect. For example, if you’re open sourcing a Node.js project, you’ll probably use libraries from the Node Package Manager (npm).
-
-Dependencies with permissive licenses like MIT, Apache 2.0, ISC, and BSD allow you to license your project however you want.
-
-Dependencies with copyleft licenses require closer attention. Including any library with a “strong” copyleft license like the GPLv2, GPLv3, or AGPLv3 requires you to choose an identical or compatible license for your project. Libraries with a “limited” or “weak” copyleft license like the MPL 2.0 and LGPL can be included in projects with any license, provided you follow the additional rules they specify.
-
-You may also want to consider the communities you hope will use and contribute to your project:
-
-Do you want your project to be used as a dependency by other projects? Probably best to use the most popular license in your relevant community. For example, MIT is the most popular license for npm libraries.
-Do you want your project to appeal to large businesses? A large business may be comforted by an express patent license from all contributors. In this case, the Apache 2.0 has you (and them) covered.
-Do you want your project to appeal to contributors who do not want their contributions to be used in closed source software? GPLv3 or (if they also do not wish to contribute to closed source services) AGPLv3 will go over well.
-Your company may have policies for open source project licensing. Some companies require your projects to bear a permissive license to permit integration with the company’s proprietary products. Other policies enforce a strong copyleft license and an additional contributor agreement (see below) so only your company can use the project in closed source software. Organizations may also have certain standards, social responsibility goals, or transparency needs which could require a particular licensing strategy. Talk to your company’s legal department for guidance.
-
-When you create a new project on GitHub, you are given the option to select a license. Including one of the licenses mentioned above will make your GitHub project open source. If you’d like to see other options, check out choosealicense.com to find the right license for your project, even if it isn’t software.
+MEMETube is a site where more than 1 video has been collected.
+It's a pity you can't upload videos, but the video publishing system will be ready next year...
